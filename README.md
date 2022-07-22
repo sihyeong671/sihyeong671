@@ -12,7 +12,7 @@ PNU 2018.3 ~
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
 
 ## Blog
-https://blog.naver.com/bshlab671
+[Naver Blog](https://blog.naver.com/bshlab671)
 
 
 
