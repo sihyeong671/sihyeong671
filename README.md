@@ -1,8 +1,7 @@
 ## sihyeong.park
-
-PNU 2018.3 ~
-
-(interested in Deep Learning)
+- PNU 2018.3 ~
+- Kaist 몰입캠프 2021.1 ~ 2022.2
+- Naver AI Tech 2022.9 ~
 
 ## Language & Framework
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
