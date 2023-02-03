@@ -1,6 +1,6 @@
 ## sihyeong.park
 - PNU 2018.3 ~
-- KAIST 몰입캠프 2021.1 ~ 2022.2
+- KAIST 몰입캠프 2021.12.28 ~ 2022.1.26
 - NAVER AI Tech 2022.9 ~ 2023.02
 
 ## Language & Framework
