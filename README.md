@@ -9,8 +9,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-05988a?style=flat&logo=fastapi&logoColor=white"/>
    
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
-   
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 
 ## Blog
 [Naver Blog](https://blog.naver.com/bshlab671)
