@@ -14,6 +14,3 @@
 
 ## Blog
 [Naver Blog](https://blog.naver.com/bshlab671)
-
-[Velog](https://velog.io/@sihyeong671)
-
