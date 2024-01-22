@@ -2,6 +2,7 @@
 - PNU 2018.3 ~
 - KAIST 몰입캠프 2021.12.28 ~ 2022.1.26
 - NAVER AI Tech 2022.9.19 ~ 2023.02.14
+- undergraduate researcher in PNU CVlab 2023.10 ~
 
 ## Language & Framework
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
