@@ -1,12 +1,25 @@
-## Sihyeong.park
+## 📚 Education
 
-### Education
-- PNU 2018.3 ~ 2025.02
+| Institution | Period        |
+|-------------|---------------|
+| PNU         | 2018.03 ~ 2025.02 |
 
-### Career
-- ReLU Games. Deep Learning Engineer 2024.7.22 ~ 
+---
 
-### Experience
-- KAIST 몰입캠프 2021.12.28 ~ 2022.1.26
-- NAVER AI Tech 2022.9.19 ~ 2023.02.14
-- undergraduate researcher. PNU CVlab 2023.10 ~ 2024.05
+## 💼 Career
+
+| Company      | Position              | Period                |
+|--------------|-----------------------|------------------------|
+| Krafton DLD  | -                     | 2025.04.01 ~ Present   |
+| ReLU Games   | Deep Learning Engineer| 2024.07.22 ~ 2025.03.31|
+
+---
+
+## 🛠 Experience
+
+| Program/Role             | Organization       | Period                  |
+|--------------------------|--------------------|--------------------------|
+| 몰입캠프                   | KAIST              | 2021.12.28 ~ 2022.01.26  |
+| 부스트캠프(CV Track)        | NAVER Connect      | 2022.09.19 ~ 2023.02.14  |
+| Undergraduate Researcher | PNU CVLab          | 2023.10 ~ 2024.05        |
+
