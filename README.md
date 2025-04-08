@@ -10,8 +10,8 @@
 
 | Company      | Position              | Period                |
 |--------------|-----------------------|------------------------|
-| Krafton DLD  | -                     | 2025.04.01 ~ Present   |
-| ReLU Games   | Deep Learning Engineer| 2024.07.22 ~ 2025.03.31|
+| Krafton DLD  | Machine Learning Engineer | 2025.04.01 ~ Present   |
+| ReLU Games   | Deep Learning Engineer    | 2024.07.22 ~ 2025.03.31|
 
 ---
 
