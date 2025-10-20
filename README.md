@@ -24,5 +24,3 @@
 | Undergraduate Researcher | PNU CVLab          | 2023.10 ~ 2024.05        |
 
 ---
-
-[Notion Page(Portfolio)](https://www.notion.so/18909834f7eb80ffa3c2cfa80391e428?source=copy_link)
